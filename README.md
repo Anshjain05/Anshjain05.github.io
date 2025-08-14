@@ -1,5 +1,3 @@
-Sure, Ansh! Here’s a clean, professional, and forward-thinking **README** template for your personal portfolio repo that will impress recruiters and showcase your skills clearly.
-
 ---
 
 # Ansh Jain - Personal Portfolio
